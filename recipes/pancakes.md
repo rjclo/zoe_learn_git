@@ -18,3 +18,28 @@
 5. Serve warm with your favorite topping.
 
 > Tip: Try adding blueberries!
+
+# blueberries
+
+## Ingredients
+
+- 1 cup flour
+- 1 tablespoon sugar
+- 2 eggs
+- 1 cup milk
+- 0.5 cup butter
+
+## Steps
+
+1. Mix the ingridents
+2. Wisk eggs, milk, sugar and butter 
+
+# banana bread
+
+## Ingridents
+
+- 3 bananas
+- 1 egg
+- 1 cup milk
+- 1 cup clour
+
