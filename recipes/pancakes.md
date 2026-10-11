@@ -33,3 +33,13 @@
 
 1. Mix the ingridents
 2. Wisk eggs, milk, sugar and butter 
+
+# banana bread
+
+## Ingridents
+
+- 3 bananas
+- 1 egg
+- 1 cup milk
+- 1 cup clour
+
